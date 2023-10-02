@@ -1,1 +1,1 @@
-# HDSC--Introduction-to-Python-in-Machine-Learning
+As a first step towards a productive career as a data professional, I was assigned a project with dataset from the Food and Agriculture Organization of the United Nations. Dataset available https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning/files/7768140/FoodBalanceSheets_E_Africa_NOFLAG.csv
